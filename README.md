@@ -1,1 +1,3 @@
-# Subhamabhishek-Data-Structure-And-Algorithm-Supreme-3.0-Batch
+# Data-Structure-And-Algorithm-Supreme-3.0-Batch
+
+Welcome to C++ DSA lecture Codes
