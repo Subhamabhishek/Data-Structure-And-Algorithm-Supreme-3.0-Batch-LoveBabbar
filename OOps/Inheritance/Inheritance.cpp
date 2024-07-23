@@ -58,15 +58,7 @@ int main(){
     A.start_engine();
     A.startAc();
     A.stop_engine();
-
-    int arr[3];
-    fill(arr,arr+8,23);
-    for(int i=0; i<10; i++){
-        cout<<arr[i]<<endl;
-    }
-    cout<<arr[7];
-
-
+    
     return 0;
 
 }
